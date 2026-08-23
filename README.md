@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, im Bolzan </h1>
 
 <p align="center">
-  <i>Low-level programming • Game development • Linux enthusiast</i>
+  <i>Low-level programming • Game development • Arduino enthusiast</i>
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 <p>
   •  Focused on C and low-level programming <br>
   •  Building games with Raylib <br>
-  •  Daily driving Linux (Fedora + Hyprland) <br>
   •  Interested in systems and performance <br>
   •  Grêmio Foot-Ball Porto Alegrense fan
 </p>
@@ -82,8 +81,6 @@
 <p>
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Raylib-0d1117?style=for-the-badge&logo=raylib&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-0d1117?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
 <hr>
